@@ -3,7 +3,6 @@ project:
   output-dir: _book
   
 book:
-  ![](img/longcolor.png)
   title: "The Hinojosa Lab Manual"
   author: "Cecilia Hinojosa & Grace Dean"
   date: last-modified 
